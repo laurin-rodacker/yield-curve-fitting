@@ -2,6 +2,8 @@
 
 Calibration of **Nelson-Siegel** (1987) and **Svensson** (1994) yield curve models on real Bundesbank spot rate data. Pure `scipy`/`numpy` — no QuantLib, no sklearn.
 
+See [`EXPLAINER.md`](EXPLAINER.md) for the full mathematical derivation.
+
 ---
 
 ## Models
